@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|d:\\projects\\leetcode.makesumdivisiblebyp\\leetcode.makesumdivisiblebyp\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|solutionrelative:leetcode.makesumdivisiblebyp\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|d:\\projects\\leetcode.makesumdivisiblebyp\\leetcode.makesumdivisiblebyp\\week 2\\day 5\\eventbasedmemoryleak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|solutionrelative:leetcode.makesumdivisiblebyp\\week 2\\day 5\\eventbasedmemoryleak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|d:\\projects\\leetcode.makesumdivisiblebyp\\leetcode.makesumdivisiblebyp\\week 2\\day 5\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|solutionrelative:leetcode.makesumdivisiblebyp\\week 2\\day 5\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|d:\\projects\\leetcode.makesumdivisiblebyp\\leetcode.makesumdivisiblebyp\\week 2\\day 5\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|solutionrelative:leetcode.makesumdivisiblebyp\\week 2\\day 5\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|d:\\projects\\leetcode.makesumdivisiblebyp\\leetcode.makesumdivisiblebyp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|solutionrelative:leetcode.makesumdivisiblebyp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|d:\\projects\\leetcode.makesumdivisiblebyp\\leetcode.makesumdivisiblebyp\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|solutionrelative:leetcode.makesumdivisiblebyp\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B50F52C-AB79-6B04-3F8D-01437F3F04CB}|Leetcode.MakeSumDivisibleByP\\Studying.csproj|d:\\projects\\leetcode.makesumdivisiblebyp\\leetcode.makesumdivisiblebyp\\week 2\\day 4\\largeobjectheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,37 +74,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Subscriber.cs",
+              "ToolTip": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Subscriber.cs",
+              "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:12:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Publisher.cs",
+              "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Publisher.cs",
+              "ToolTip": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Publisher.cs",
+              "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:06:22.656Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EventBasedMemoryLeak.cs",
+              "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\EventBasedMemoryLeak.cs",
+              "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\EventBasedMemoryLeak.cs",
+              "ToolTip": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\EventBasedMemoryLeak.cs",
+              "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 5\\EventBasedMemoryLeak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:05:28.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TemperatureSensor.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\TemperatureSensor.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\TemperatureSensor.cs",
               "ToolTip": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\TemperatureSensor.cs",
               "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\TemperatureSensor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T18:36:56.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Program.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Program.cs",
               "ToolTip": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Program.cs",
               "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T18:36:45.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ObjectPooling.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 3\\ObjectPooling.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 3\\ObjectPooling.cs",
@@ -100,12 +155,11 @@
               "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 3\\ObjectPooling.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T18:34:44.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T18:34:44.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MinimizeStringAllocations.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 4\\MinimizeStringAllocations.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 4\\MinimizeStringAllocations.cs",
@@ -113,12 +167,11 @@
               "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 4\\MinimizeStringAllocations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:13:55.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T14:13:55.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LargeObjectHeap.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 4\\LargeObjectHeap.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 4\\LargeObjectHeap.cs",
@@ -126,12 +179,11 @@
               "RelativeToolTip": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 4\\LargeObjectHeap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:12:54.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T14:12:54.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ParseFirstNumber.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 2\\ParseFirstNumber.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 2\\ParseFirstNumber.cs",
@@ -143,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AvoidBoxingVSUnboxing.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 2\\AvoidBoxingVSUnboxing.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 2\\AvoidBoxingVSUnboxing.cs",
@@ -155,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "StackVsHeap.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 1\\StackVsHeap.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 1\\StackVsHeap.cs",
@@ -167,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AllocateMemory.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 2\\Day 1\\AllocateMemory.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 2\\Day 1\\AllocateMemory.cs",
@@ -179,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 1\\Day 5\\User.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 1\\Day 5\\User.cs",
@@ -191,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "MemorizeFunc.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 1\\Day 4\\MemorizeFunc.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 1\\Day 4\\MemorizeFunc.cs",
@@ -203,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CustomLinq.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 1\\Day 3\\CustomLinq.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 1\\Day 3\\CustomLinq.cs",
@@ -215,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IEntity.cs",
               "DocumentMoniker": "D:\\Projects\\Leetcode.MakeSumDivisibleByP\\Leetcode.MakeSumDivisibleByP\\Week 1\\Day 2\\IEntity.cs",
               "RelativeDocumentMoniker": "Leetcode.MakeSumDivisibleByP\\Week 1\\Day 2\\IEntity.cs",

@@ -1,0 +1,6 @@
+D:\Projects\Leetcode.MakeSumDivisibleByP\Leetcode.MakeSumDivisibleByP\obj\Debug\net10.0\Studying.csproj.AssemblyReference.cache
+D:\Projects\Leetcode.MakeSumDivisibleByP\Leetcode.MakeSumDivisibleByP\obj\Debug\net10.0\Studying.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Leetcode.MakeSumDivisibleByP\Leetcode.MakeSumDivisibleByP\obj\Debug\net10.0\Studying.AssemblyInfoInputs.cache
+D:\Projects\Leetcode.MakeSumDivisibleByP\Leetcode.MakeSumDivisibleByP\obj\Debug\net10.0\Studying.AssemblyInfo.cs
+D:\Projects\Leetcode.MakeSumDivisibleByP\Leetcode.MakeSumDivisibleByP\obj\Debug\net10.0\Studying.csproj.CoreCompileInputs.cache
+D:\Projects\Leetcode.MakeSumDivisibleByP\Leetcode.MakeSumDivisibleByP\obj\Debug\net10.0\Studying.sourcelink.json
