@@ -14,8 +14,4 @@
     <PackageReference Include="Microsoft.Extensions.ObjectPool" Version="10.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Week 2\Day 5\" />
-  </ItemGroup>
-
 </Project>
